@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f250f0f4-ae90-4f69-b392-1df918a1b388/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/thetrush",
+    "appService.deploySubpath": "dist"
+}

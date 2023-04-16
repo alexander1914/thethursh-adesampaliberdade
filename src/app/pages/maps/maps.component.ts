@@ -75,32 +75,38 @@ export class MapsComponent implements OnInit {
 
         var marker = new google.maps.Marker({
             position: myLatlng,
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
             title:"my-maps"
         });
 
         var marker2 = new google.maps.Marker({
             position: myLatlng2,
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
             title:"my-maps"
         });
 
         var marker3 = new google.maps.Marker({
             position: myLatlng3,
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
             title:"my-maps"
         });
 
         var marker4 = new google.maps.Marker({
             position: myLatlng4,
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
             title:"my-maps"
         });
 
         var marker5 = new google.maps.Marker({
             position: myLatlng5,
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
             title:"my-maps"
         });
 
         var marker6 = new google.maps.Marker({
             position: myLatlng6,
-            title:"my-maps"
+            icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
+            title:"my-maps",
         });
 
         // To add the marker to the map, call setMap();
